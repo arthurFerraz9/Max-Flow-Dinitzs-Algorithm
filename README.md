@@ -6,7 +6,6 @@ The paper can be found in: https://www.cs.bgu.ac.il/~dinitz/Papers/Dinitz_alg.pd
 
 ## Instalation
 
-First make sure you Python 3 and Conda installed.
-Then run the command install.sh
-
-Finally just run the Jupyter Notebook
+* First make sure Python 3 and Conda are installed.
+* Then run the command install.sh
+* Finally just run the Jupyter Notebook
